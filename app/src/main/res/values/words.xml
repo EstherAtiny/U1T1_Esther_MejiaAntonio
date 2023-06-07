@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>DRAGON</item>
+        <item>QUIMERA</item>
+        <item>FENIX</item>
+        <item>SIRENA</item>
+        <item>TRITON</item>
+        <item>KRAKEN</item>
+        <item>CENTAURO</item>
+        <item>CICLOPE</item>
+        <item>HIDRA</item>
+        <item>LEVIATAN</item>
+        <item>GNOMO</item>
+        <item>LOBO</item>
+        <item>HADAS</item>
+    </string-array>
+</resources>
